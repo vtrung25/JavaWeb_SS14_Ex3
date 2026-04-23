@@ -1,4 +1,4 @@
-🔹 Input (Dữ liệu đầu vào)
+Input (Dữ liệu đầu vào)
 
 Khi người dùng nhấn “Mua ngay”, hệ thống nhận:
 
@@ -7,7 +7,7 @@ productId: ID sản phẩm (iPhone 15)
 (Có thể có thêm)
 quantity: số lượng mua (mặc định = 1)
 requestTime: thời điểm request (phục vụ log/concurrency)
-🔹 Output (Kết quả mong đợi)
+Output (Kết quả mong đợi)
 
 Hệ thống có 3 trường hợp chính:
 
